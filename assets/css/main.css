@@ -178,6 +178,7 @@ input, select, textarea {
 		border-bottom: dotted 1px rgba(255, 255, 255, 0.35);
 		color: #ffffff;
 		text-decoration: none;
+		
 	}
 
 		a:hover {
@@ -3001,6 +3002,7 @@ input, select, textarea {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		margin: 0 0 2em 0;
+		
 	}
 
 		.features article {
@@ -3029,6 +3031,8 @@ input, select, textarea {
 					border-radius: 5px 5px 0 0;
 					width: 100%;
 				}
+
+			
 
 		@media screen and (max-width: 980px) {
 
